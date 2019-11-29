@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="search">Search</string>
+    <string name="textview1">TextView</string>
+    <string name="name">Name</string>
+    <string name="textview2">TextView</string>
+    <string name="textview3">TextView</string>
+    <string name="textview4">TextView</string>
+    <string name="rain">Rain</string>
+    <string name="humidity">Humidity</string>
+    <string name="wind">Wind</string>
+    <string name="_60">60</string>
+    <string name="austin">Austin</string>
+    <string name="upArrow"> \u2191</string>
+    <string name="downArrow"> \u2193</string>
+
+</resources>
